@@ -2,7 +2,7 @@
 
 ## Context
 
-Video games are big business: the global gaming market is projected to be worth more than $300 billion by 2027, according to [Mordor Intelligence ](https://www.mordorintelligence.com/industry-reports/global-gaming-market). With so much money at stake, the major game publishers are hugely incentivized to create the next big hit. But are games getting better, or has the golden age of video games already passed?
+Video games are big business: the global gaming market is projected to be worth more than $300 billion by 2027, according to [Mordor Intelligence](https://www.mordorintelligence.com/industry-reports/global-gaming-market). With so much money at stake, the major game publishers are hugely incentivized to create the next big hit. But are games getting better, or has the golden age of video games already passed?
 
 ## Project Description
 
@@ -12,7 +12,7 @@ In the process of exploring and analyzing the data, I use skills such as joining
 
 ### Some of the questions answered in this project:
 
-- What are some of the top-selling video games of all time!?
+- What are some of the top-selling video games of all time?
 - In what years of video gaming history have the critics given the highest average score?
 - What years have the video game players loved the most?
 - How many copies of games were sold in the most successful years in gaming history (according to both critics and players)?
